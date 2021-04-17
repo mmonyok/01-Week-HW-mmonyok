@@ -7,7 +7,7 @@
     - I learned how to better identify accessibility failings in a web page and how to quickly adjust them to make sure the page is accessible to as many people as possible.
 
 ## Screenshot:
-    ![Screenshot of finished project.](images/screenshot.jpg)
+    ![Screenshot of finished project.](images/screenshot.png)
 
 ## Deployed Site:
-    -https://mmonyok.github.io/01-Week-HW-mmonyok/
+    -[https://mmonyok.github.io/01-Week-HW-mmonyok/](https://mmonyok.github.io/01-Week-HW-mmonyok/)
