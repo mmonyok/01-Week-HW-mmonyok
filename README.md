@@ -6,8 +6,8 @@
     - I fixed the title of the page, as it was lacking any specificity; I updated the html elements to give it semantic html, so that code reads in a more logical, organized manner; I gave all images on the page alt attributes (or equivalent), including the heart emoji in the footer, so that screen readers can actually process each image; adjusted the heading in the footer to H1 for visual aesthetics and because it makes more sense having its own heading rather than a sub-heading. I only made one adjustment to the CSS where a "div" element was incorrectly labeled and needed to be changed to "nav."
     - I learned how to better identify accessibility failings in a web page and how to quickly adjust them to make sure the page is accessible to as many people as possible.
 
-## Screenshot
-    ![Screenshot of finished project.](./images/screenshot.jpg)
+## Screenshot:
+    ![Screenshot of finished project.](images/screenshot.jpg)
 
 ## Deployed Site:
     -https://mmonyok.github.io/01-Week-HW-mmonyok/
